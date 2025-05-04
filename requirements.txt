@@ -1,0 +1,8 @@
+librosa
+numpy
+pandas
+scikit-learn
+imblearn
+matplotlib
+joblib
+flask
